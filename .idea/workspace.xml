@@ -6,9 +6,49 @@
   <component name="ChangeListManager">
     <list default="true" id="dd1b5dc2-403e-4ffe-9494-04c215edf012" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/Landing/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/Landing/Hero.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/views/Landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/Landing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/.firebase/hosting.YnVpbGQ.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/.firebaserc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/firebase.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/css/tailwind.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Gochi_Hand/GochiHand-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Gochi_Hand/OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/RedHatDisplay-Italic-VariableFont_wght.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/RedHatDisplay-VariableFont_wght.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-SemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/img/samy.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Landing/Hero.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/views/Landing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/views/Projects.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/tailwind.config.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +83,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/samy/Documents/ENV/sa-my/frontend/src/assets/fonts",
+    "last_opened_file_path": "C:/Users/samyh/Documents/GitHub/sa-my/front/app",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -55,13 +95,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\samyh\Documents\GitHub\sa-my\front\app" />
       <recent name="$PROJECT_DIR$/frontend/src/assets/fonts" />
       <recent name="$PROJECT_DIR$/frontend/src/assets/img" />
       <recent name="$PROJECT_DIR$/frontend/src/assets" />
       <recent name="$PROJECT_DIR$/frontend/src/assets/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/frontend/src/assets/css" />
+      <recent name="C:\Users\samyh\Documents\GitHub\sa-my\front\public" />
+      <recent name="C:\Users\samyh\Documents\GitHub\sa-my\front\app\assets\css" />
+      <recent name="C:\Users\samyh\Documents\GitHub\sa-my\front\app\assets" />
+      <recent name="C:\Users\samyh\Documents\GitHub\sa-my\front\src" />
+      <recent name="C:\Users\samyh\Documents\GitHub\sa-my\front\app" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -74,6 +119,8 @@
       <updated>1724056525044</updated>
       <workItem from="1724056526391" duration="169000" />
       <workItem from="1724056769492" duration="17958000" />
+      <workItem from="1724085625919" duration="234000" />
+      <workItem from="1724085867448" duration="2242000" />
     </task>
     <servers />
   </component>
