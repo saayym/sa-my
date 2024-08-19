@@ -4,11 +4,11 @@ import samy from '../../../public/images/samy.jpeg';
 
 export default function Hero() {
     const adjectives = [
-        "Junior Fullstack Developer",
-        "Frontend lover",
-        "Backend enjoyer",
-        "UX/UI enthusiast",
-        "Tech addict"
+        'Junior Fullstack Developer',
+        'Frontend lover',
+        'Backend enjoyer',
+        'UX/UI enthusiast',
+        'Tech addict'
     ];
 
     const [currentAdjective, setCurrentAdjective] = useState('');
@@ -36,7 +36,7 @@ export default function Hero() {
         const timer = setTimeout(handleTyping, typingSpeed);
 
         return () => clearTimeout(timer);
-    }, [currentAdjective, isDeleting, loopNum, typingSpeed]);
+    }, [currentAdjective, isDeleting, loopNum, typingSpeed, adjectives]);
 
     return (
         <>
@@ -71,7 +71,7 @@ export default function Hero() {
                             <span className="blinking-cursor">|</span>
                         </h3>
                         <h4 className="mt-6 text-lg leading-8 text-gray-600">
-                            "Les compétences se gagnent grâce à la passion."
+                            &quot;Les compétences se gagnent grâce à la passion.&quot;
                         </h4>
                         <div className="mt-10 flex items-center justify-center gap-x-6">
                             <a className="float float-animation isomorphic-link isomorphic-link--internal inline-flex items-center justify-center gap-2 rounded-xl bg-blue-600 px-4 py-3 text-sm font-semibold text-white shadow-sm transition-all duration-150 hover:bg-blue-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600"

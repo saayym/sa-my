@@ -5,50 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd1b5dc2-403e-4ffe-9494-04c215edf012" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/front/public/s-no_bg.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.firebase/hosting.YnVpbGQ.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.firebaserc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/firebase.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/css/tailwind.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Gochi_Hand/GochiHand-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Gochi_Hand/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/RedHatDisplay-Italic-VariableFont_wght.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/RedHatDisplay-VariableFont_wght.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-ExtraBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-ExtraBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-MediumItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-SemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-SemiBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/assets/img/samy.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/Footer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/Landing/Hero.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/Navbar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/views/Landing.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/views/Projects.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/tailwind.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/front/next.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/components/Landing/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/Landing/Hero.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +56,8 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "npm.export.executor": "Run",
+    "ts.external.directory.path": "C:\\Users\\samyh\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -103,11 +71,28 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\samyh\Documents\GitHub\sa-my\front\public" />
+      <recent name="C:\Users\samyh\Documents\GitHub\sa-my\front\app" />
       <recent name="C:\Users\samyh\Documents\GitHub\sa-my\front\app\assets\css" />
       <recent name="C:\Users\samyh\Documents\GitHub\sa-my\front\app\assets" />
       <recent name="C:\Users\samyh\Documents\GitHub\sa-my\front\src" />
-      <recent name="C:\Users\samyh\Documents\GitHub\sa-my\front\app" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="export" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/front/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="export" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.export" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -120,7 +105,7 @@
       <workItem from="1724056526391" duration="169000" />
       <workItem from="1724056769492" duration="17958000" />
       <workItem from="1724085625919" duration="234000" />
-      <workItem from="1724085867448" duration="2242000" />
+      <workItem from="1724085867448" duration="9809000" />
     </task>
     <servers />
   </component>

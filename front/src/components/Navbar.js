@@ -1,8 +1,11 @@
 "use client";
 
+import Image from 'next/image';
+import logo from '../../public/s-logo.png';
 import React, { useState, useEffect, useRef } from "react";
 import { FaGithub, FaLinkedin, FaTimes } from "react-icons/fa";
 import { RxHamburgerMenu } from "react-icons/rx";
+
 
 export default function Navbar() {
     const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -61,7 +64,7 @@ export default function Navbar() {
             <nav className="bg-blue-50 w-full">
                 <div className="container flex items-center justify-between p-6 mx-auto text-gray-600 capitalize dark:text-gray-300">
                     <div className="flex items-center">
-                        <a href="#"><img src="path/to/logo.png" alt="Logo Samy Hammouche" className="h-8 w-8 mr-4" /></a>
+                        <a href="#"><Image className="h-10 w-10 mr-4" src={logo} alt="Logo Samy Hammouche"/></a>
                     </div>
                     <div className="hidden md:flex items-center justify-end flex-grow">
                         <a href="#" className="block text-gray-800 mx-1.5 sm:mx-6">Accueil</a>
@@ -83,7 +86,7 @@ export default function Navbar() {
                 {isMobileMenuOpen && (
                     <div ref={menuRef} className={`fixed top-0 left-0 w-full bg-blue-50 p-6 z-50 ${isClosing ? 'animate-slide-up' : 'animate-slide-down'}`}>
                         <div className="flex justify-between items-center mb-4">
-                            <a href="#"><img src="path/to/logo.png" alt="Logo Samy Hammouche" className="h-8 w-8" /></a>
+                            <a href="#"><Image className="h-10 w-10 mr-4" src={logo} alt="Logo Samy Hammouche"/></a>
                             <button onClick={toggleMobileMenu} className="text-gray-800 focus:outline-none">
                                 <FaTimes className="w-6 h-6" />
                             </button>
