@@ -5,25 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd1b5dc2-403e-4ffe-9494-04c215edf012" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/fonts/Gochi_Hand/GochiHand-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/fonts/Gochi_Hand/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/RedHatDisplay-Italic-VariableFont_wght.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/RedHatDisplay-VariableFont_wght.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-ExtraBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/fonts/Red_Hat_Display/static/RedHatDisplay-SemiBoldItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Landing/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/Landing/Hero.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/views/Landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/Landing.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1724056525044</updated>
       <workItem from="1724056526391" duration="169000" />
-      <workItem from="1724056769492" duration="16437000" />
+      <workItem from="1724056769492" duration="17958000" />
     </task>
     <servers />
   </component>
