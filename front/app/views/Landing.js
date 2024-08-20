@@ -1,29 +1,29 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
-import Hero from "@/src/components/Landing/Hero";
+import Hero from "../../src/components/Landing/Hero";
+import StackSlider from "../../src/components/Landing/StackSlider";
+import AboutMe from "../../src/components/Landing/AboutMe";
+import ProjectsList from "../../src/components/Projects/ProjectsList";
+import Accordion from "../../src/components/Landing/Accordion";
+import React from "react";
 
 export default function Landing() {
-    const [loadingText, setLoadingText] = useState(".");
-
-    useEffect(() => {
-        const loadingSequence = [".", "..", "..."];
-        let index = 0;
-
-        const interval = setInterval(() => {
-            setLoadingText(loadingSequence[index]);
-            index = (index + 1) % loadingSequence.length;
-        }, 500);
-
-        return () => clearInterval(interval);
-    }, []);
-
     return (
         <>
             <Hero />
-            <p className="text-center text-4xl font-bold tracking-tight sm:text-4xl mb-40">
-                En cours de développement{loadingText}
-            </p>
+
+            <AboutMe />
+
+            <StackSlider />
+
+            <ProjectsList limit={3} />
+            <div className="mt-4 flex items-center justify-center gap-x-6">
+                <a href="/projets" className="isomorphic-link isomorphic-link--internal inline-flex items-center justify-center gap-2 rounded-xl bg-blue-600 px-4 py-3 text-sm font-semibold text-white shadow-sm transition-all duration-150 hover:bg-blue-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600">
+                    Voir plus de projets
+                </a>
+            </div>
+
+            <Accordion />
         </>
     );
 }

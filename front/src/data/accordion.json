@@ -1,0 +1,10 @@
+[
+  {
+    "question": "Pourquoi avoir développer un portfolio ?",
+    "answer": "J'ai souhaité développer un portfolio pour présenter mes compétences, mes projets mais surtout me représenter moi même à travers ce dernier."
+  },
+  {
+    "question": "Avec quelles technologies le portfolio a-t-il été développé ?",
+    "answer": "Mon portfolio a été développé avec les technologies suivantes : NextJS, TailwindCSS, Firebase, Github."
+  }
+]

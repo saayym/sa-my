@@ -5,16 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd1b5dc2-403e-4ffe-9494-04c215edf012" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/front/public/s-no_bg.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/app/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/front/next.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/app/assets/css/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/front/app/assets/css/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/app/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/app/views/Landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/app/views/Landing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/app/views/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/app/views/Projects.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/public/s-no_bg.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/front/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/Footer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/src/components/Landing/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/Landing/Hero.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/samyh/Documents/GitHub/sa-my/front/app",
+    "last_opened_file_path": "/Users/samy/Documents/ENV/sa-my/front/public",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -63,11 +64,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/front/public" />
+      <recent name="$PROJECT_DIR$/front/public/images" />
       <recent name="C:\Users\samyh\Documents\GitHub\sa-my\front\app" />
       <recent name="$PROJECT_DIR$/frontend/src/assets/fonts" />
       <recent name="$PROJECT_DIR$/frontend/src/assets/img" />
-      <recent name="$PROJECT_DIR$/frontend/src/assets" />
-      <recent name="$PROJECT_DIR$/frontend/src/assets/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\samyh\Documents\GitHub\sa-my\front\public" />

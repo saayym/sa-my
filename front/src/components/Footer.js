@@ -5,7 +5,7 @@ import { IoIosMail } from "react-icons/io";
 export default function Footer() {
     return (
         <>
-            <footer className="relative bg-blue-50 pt-8 pb-6">
+            <footer className="relative bg-blue-50 mt-32 pt-8 pb-6">
                 <div
                     className="bottom-auto top-0 left-0 right-0 w-full absolute pointer-events-none overflow-hidden -mt-20 h-20"
                     style={{ transform: "translateZ(0)" }}

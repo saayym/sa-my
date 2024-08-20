@@ -1,0 +1,14 @@
+[
+  {
+    "name": "React",
+    "image": "../../public/images/stacks/react.png"
+  },
+  {
+    "name": "HTML",
+    "image": "path/to/html-logo.png"
+  },
+  {
+    "name": "CSS",
+    "image": "path/to/css-logo.png"
+  }
+]
