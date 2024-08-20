@@ -63,9 +63,9 @@ export default function Navbar() {
     return (
         <>
             <nav className="bg-blue-50 w-full">
-                <div className="container flex items-center justify-between p-6 mx-auto text-gray-600 capitalize dark:text-gray-300">
+                <div className="container flex items-center justify-between p-6 mx-auto text-gray-600 capitalize">
                     <div className="flex items-center">
-                        <Link to="/"><Image src={logo} alt="Logo Samy Hammouche" className="h-12 w-12" /></Link>
+                        <Link to="/"><Image src={logo} alt="Logo Samy Hammouche" className="h-10 w-10" /></Link>
                     </div>
                     <div className="hidden md:flex items-center justify-end flex-grow">
                         <Link to="/" className="block text-gray-800 mx-1.5 sm:mx-6">Accueil</Link>

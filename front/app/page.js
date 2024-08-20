@@ -1,15 +1,25 @@
 "use client";
 
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Navbar from '../src/components/Navbar';
 import Footer from '../src/components/Footer';
 import Landing from './views/Landing';
 import Projects from './views/Projects';
 import Contact from './views/Contact';
+import { useEffect } from 'react';
 
 export default function Home() {
+    useEffect(() => {
+        if (typeof window !== 'undefined') {
+            const cachedData = localStorage.getItem('projects');
+            if (!cachedData) {
+                localStorage.setItem('projects', JSON.stringify([]));
+            }
+        }
+    }, []);
+
     return (
-        <Router>
+        <BrowserRouter>
             <header>
                 <Navbar />
             </header>
@@ -42,6 +52,6 @@ export default function Home() {
             <footer>
                 <Footer />
             </footer>
-        </Router>
+        </BrowserRouter>
     );
 }

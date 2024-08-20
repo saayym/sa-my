@@ -7,8 +7,11 @@
       "projectDate": "mai 2024",
       "projectTechnologies": {
         "data": [
-          { "attributes": { "name": "HTML", "url": "/path/to/html-logo.png" } },
-          { "attributes": { "name": "CSS", "url": "/path/to/css-logo.png" } }
+          { "stackUsed": { "name": "Wordpress", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fwordpress.png?alt=media&token=43a28d6c-3c3c-49bb-bdf6-d05e4204a687" } },
+          { "stackUsed": { "name": "PHP", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fphp.png?alt=media&token=d5385dba-fdb3-40aa-88a2-e7150aecd52b" } },
+          { "stackUsed": { "name": "HTML", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fhtml.png?alt=media&token=aaad887f-ebef-42ec-8c2f-251e77e24a71" } },
+          { "stackUsed": { "name": "CSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8" } },
+          { "stackUsed": { "name": "UX/UI", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fux.png?alt=media&token=77550c43-21dc-4a0c-9a11-6b9d64409543" } }
         ]
       }
     }
@@ -21,8 +24,8 @@
       "projectDate": "depuis juillet 2024",
       "projectTechnologies": {
         "data": [
-          { "attributes": { "name": "HTML", "url": "/path/to/html-logo.png" } },
-          { "attributes": { "name": "CSS", "url": "/path/to/css-logo.png" } }
+          { "stackUsed": { "name": "HTML", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fhtml.png?alt=media&token=aaad887f-ebef-42ec-8c2f-251e77e24a71" } },
+          { "stackUsed": { "name": "CSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8" } }
         ]
       }
     }
@@ -35,8 +38,8 @@
       "projectDate": "avril 2024",
       "projectTechnologies": {
         "data": [
-          { "attributes": { "name": "HTML", "url": "/path/to/html-logo.png" } },
-          { "attributes": { "name": "CSS", "url": "/path/to/css-logo.png" } }
+          { "stackUsed": { "name": "HTML", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fhtml.png?alt=media&token=aaad887f-ebef-42ec-8c2f-251e77e24a71" } },
+          { "stackUsed": { "name": "CSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8" } }
         ]
       }
     }
@@ -49,8 +52,8 @@
       "projectDate": "depuis novembre 2023",
       "projectTechnologies": {
         "data": [
-          { "attributes": { "name": "HTML", "url": "/path/to/html-logo.png" } },
-          { "attributes": { "name": "CSS", "url": "/path/to/css-logo.png" } }
+          { "stackUsed": { "name": "HTML", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fhtml.png?alt=media&token=aaad887f-ebef-42ec-8c2f-251e77e24a71" } },
+          { "stackUsed": { "name": "CSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8" } }
         ]
       }
     }
@@ -63,8 +66,8 @@
       "projectDate": "novembre 2023",
       "projectTechnologies": {
         "data": [
-          { "attributes": { "name": "HTML", "url": "/path/to/html-logo.png" } },
-          { "attributes": { "name": "CSS", "url": "/path/to/css-logo.png" } }
+          { "stackUsed": { "name": "HTML", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fhtml.png?alt=media&token=aaad887f-ebef-42ec-8c2f-251e77e24a71" } },
+          { "stackUsed": { "name": "CSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8" } }
         ]
       }
     }
@@ -77,8 +80,8 @@
       "projectDate": "novembre 2023",
       "projectTechnologies": {
         "data": [
-          { "attributes": { "name": "HTML", "url": "/path/to/html-logo.png" } },
-          { "attributes": { "name": "CSS", "url": "/path/to/css-logo.png" } }
+          { "stackUsed": { "name": "HTML", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fhtml.png?alt=media&token=aaad887f-ebef-42ec-8c2f-251e77e24a71" } },
+          { "stackUsed": { "name": "CSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8" } }
         ]
       }
     }
@@ -91,8 +94,8 @@
       "projectDate": "depuis juillet 2023",
       "projectTechnologies": {
         "data": [
-          { "attributes": { "name": "HTML", "url": "/path/to/html-logo.png" } },
-          { "attributes": { "name": "CSS", "url": "/path/to/css-logo.png" } }
+          { "stackUsed": { "name": "HTML", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fhtml.png?alt=media&token=aaad887f-ebef-42ec-8c2f-251e77e24a71" } },
+          { "stackUsed": { "name": "CSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8" } }
         ]
       }
     }
@@ -105,8 +108,8 @@
       "projectDate": "de mai 2023 à juin 2023",
       "projectTechnologies": {
         "data": [
-          { "attributes": { "name": "HTML", "url": "/path/to/html-logo.png" } },
-          { "attributes": { "name": "CSS", "url": "/path/to/css-logo.png" } }
+          { "stackUsed": { "name": "HTML", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fhtml.png?alt=media&token=aaad887f-ebef-42ec-8c2f-251e77e24a71" } },
+          { "stackUsed": { "name": "CSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8" } }
         ]
       }
     }
@@ -119,8 +122,8 @@
       "projectDate": "février 2023",
       "projectTechnologies": {
         "data": [
-          { "attributes": { "name": "HTML", "url": "/path/to/html-logo.png" } },
-          { "attributes": { "name": "CSS", "url": "/path/to/css-logo.png" } }
+          { "stackUsed": { "name": "HTML", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fhtml.png?alt=media&token=aaad887f-ebef-42ec-8c2f-251e77e24a71" } },
+          { "stackUsed": { "name": "CSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8" } }
         ]
       }
     }
@@ -133,8 +136,8 @@
       "projectDate": "de décembre 2022 à janvier 2023",
       "projectTechnologies": {
         "data": [
-          { "attributes": { "name": "HTML", "url": "/path/to/html-logo.png" } },
-          { "attributes": { "name": "CSS", "url": "/path/to/css-logo.png" } }
+          { "stackUsed": { "name": "HTML", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fhtml.png?alt=media&token=aaad887f-ebef-42ec-8c2f-251e77e24a71" } },
+          { "stackUsed": { "name": "CSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8" } }
         ]
       }
     }
@@ -147,8 +150,8 @@
       "projectDate": "octobre 2022",
       "projectTechnologies": {
         "data": [
-          { "attributes": { "name": "HTML", "url": "/path/to/html-logo.png" } },
-          { "attributes": { "name": "CSS", "url": "/path/to/css-logo.png" } }
+          { "stackUsed": { "name": "HTML", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fhtml.png?alt=media&token=aaad887f-ebef-42ec-8c2f-251e77e24a71" } },
+          { "stackUsed": { "name": "CSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8" } }
         ]
       }
     }
@@ -161,8 +164,8 @@
       "projectDate": "de juillet 2022 à octobre 2022",
       "projectTechnologies": {
         "data": [
-          { "attributes": { "name": "React", "url": "/path/to/react-logo.png" } },
-          { "attributes": { "name": "JavaScript", "url": "/path/to/javascript-logo.png" } }
+          { "stackUsed": { "name": "HTML", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fhtml.png?alt=media&token=aaad887f-ebef-42ec-8c2f-251e77e24a71" } },
+          { "stackUsed": { "name": "CSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8" } }
         ]
       }
     }

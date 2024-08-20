@@ -9,13 +9,12 @@
       <change beforePath="$PROJECT_DIR$/front/app/assets/css/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/front/app/assets/css/globals.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/app/page.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/app/views/Landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/app/views/Landing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/app/views/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/app/views/Projects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/public/s-no_bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/src/components/Landing/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/Landing/Hero.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/components/Landing/AboutMe.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/Landing/AboutMe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/components/Landing/StackSlider.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/Landing/StackSlider.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/components/Projects/ProjectsList.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/Projects/ProjectsList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/data/projects.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/data/projects.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/data/stacks.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/data/stacks.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,24 +43,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/samy/Documents/ENV/sa-my/front/public",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.export.executor": "Run",
-    "ts.external.directory.path": "C:\\Users\\samyh\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/samy/Documents/ENV/sa-my/front/public&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.export.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\samyh\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/front/public" />
@@ -107,6 +107,7 @@
       <workItem from="1724056769492" duration="17958000" />
       <workItem from="1724085625919" duration="234000" />
       <workItem from="1724085867448" duration="9809000" />
+      <workItem from="1724176550596" duration="8368000" />
     </task>
     <servers />
   </component>

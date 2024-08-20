@@ -13,26 +13,26 @@ export default function AboutMe() {
                 <hr className="mt-10 w-2/5 mx-auto" />
 
                 <div className="grid gap-14 md:grid-cols-3 md:gap-5 mt-8 p-3">
-                    <div className="rounded-xl bg-white p-6 text-center shadow">
+                    <div className="card rounded-xl bg-white p-6 text-center shadow">
                         <div className="mx-auto flex h-16 w-16 -translate-y-12 transform items-center justify-center rounded-full shadow-lg bg-blue-500 shadow-blue-500/40">
                             <FaLightbulb className="h-6 w-6 text-white" />
                         </div>
                         <h3 className="text-darken mb-3 pt-3 text-xl font-medium lg:h-14 lg:px-14">Curieux</h3>
-                        <p className="px-4 text-gray-500">Texte</p>
+                        <p className="px-4 text-gray-500">Toujours prêt à découvrir et intégrer de nouvelles technologies pour améliorer mes compétences et répondre aux défis.</p>
                     </div>
-                    <div className="rounded-xl bg-white p-6 text-center shadow">
+                    <div className="card rounded-xl bg-white p-6 text-center shadow">
                         <div className="mx-auto flex h-16 w-16 -translate-y-12 transform items-center justify-center rounded-full shadow-lg bg-blue-500 shadow-blue-500/40">
                             <IoMdTrendingUp className="h-6 w-6 text-white" />
                         </div>
                         <h3 className="text-darken mb-3 pt-3 text-xl font-medium lg:h-14 lg:px-14">Autonome</h3>
-                        <p className="px-4 text-gray-500">Texte</p>
+                        <p className="px-4 text-gray-500">Capable de mener des projets de bout en bout, avec une forte capacité à apprendre et à s&apos;adapter rapidement.</p>
                     </div>
-                    <div className="rounded-xl bg-white p-6 text-center shadow">
+                    <div className="card rounded-xl bg-white p-6 text-center shadow">
                         <div className="mx-auto flex h-16 w-16 -translate-y-12 transform items-center justify-center rounded-full shadow-lg bg-blue-500 shadow-blue-500/40">
                             <FaArrowsSplitUpAndLeft className="h-6 w-6 text-white" />
                         </div>
                         <h3 className="text-darken mb-3 pt-3 text-xl font-medium lg:h-14 lg:px-14">Polyvalent</h3>
-                        <p className="px-4 text-gray-500">Texte</p>
+                        <p className="px-4 text-gray-500">Compétences en front-end et back-end, permettant de contribuer à toutes les étapes d&apos;un projet avec efficacité.</p>
                     </div>
                 </div>
             </div>

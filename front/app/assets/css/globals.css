@@ -113,9 +113,14 @@ h3, h4, h5, h6, p, a, button {
 }
 
 .stack-image {
-  width: 100px;
-  height: 100px;
+  width: 70px;
+  height: 70px;
   object-fit: contain;
+  filter: grayscale(100%);
+}
+
+.stack-image:hover {
+  filter: grayscale(0%);
 }
 
 .stack-title {
@@ -131,4 +136,12 @@ h3, h4, h5, h6, p, a, button {
   100% {
     transform: translateX(-100%);
   }
+}
+
+.card {
+  transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+  transform: translateY(-10px);
 }

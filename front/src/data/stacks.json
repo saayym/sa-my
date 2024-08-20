@@ -1,14 +1,102 @@
 [
   {
-    "name": "React",
-    "image": "../../public/images/stacks/react.png"
-  },
-  {
     "name": "HTML",
-    "image": "path/to/html-logo.png"
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fhtml.png?alt=media&token=aaad887f-ebef-42ec-8c2f-251e77e24a71"
   },
   {
     "name": "CSS",
-    "image": "path/to/css-logo.png"
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8"
+  },
+  {
+    "name": "JavaScript",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fjavascript.png?alt=media&token=45032761-4a30-4c9a-9723-2726cf581c22"
+  },
+  {
+    "name": "ReactJS",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Freact.png?alt=media&token=3a390636-7b65-4875-ae8d-1630478311b1"
+  },
+  {
+    "name": "NextJS",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fnextjs.png?alt=media&token=cb4308d3-42da-44da-8dc4-8af9e61cd6a6"
+  },
+  {
+    "name": "NodeJS",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fnodejs.png?alt=media&token=d23507c3-9fa0-42ad-a931-dcafc4929e06"
+  },
+  {
+    "name": "Strapi",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fstrapi.png?alt=media&token=c4500415-f242-48d3-b452-aa73d6d09464"
+  },
+  {
+    "name": "Figma",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Ffigma.png?alt=media&token=22623c79-5602-4122-bf34-00ca3cc1d0fb"
+  },
+  {
+    "name": "Canva",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcanva.png?alt=media&token=75ecaa8c-5643-413f-8dd0-aa02bfce0ef4"
+  },
+  {
+    "name": "User Experience",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fux.png?alt=media&token=77550c43-21dc-4a0c-9a11-6b9d64409543"
+  },
+  {
+    "name": "PHP",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fphp.png?alt=media&token=d5385dba-fdb3-40aa-88a2-e7150aecd52b"
+  },
+  {
+    "name": "MySQL",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fmysql.png?alt=media&token=4ae85b26-76e3-4cad-b961-34ad7073614a"
+  },
+  {
+    "name": "TailwindCSS",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Ftailwind.png?alt=media&token=328f2797-ab6e-4d14-9995-86f4b7fae274"
+  },
+  {
+    "name": "Bootstrap",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fbootstrap.png?alt=media&token=2131ebbe-59e7-4fa2-a734-54f5bb3b96d2"
+  },
+  {
+    "name": "SCSS",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fscss.png?alt=media&token=d3b53c0c-3016-42b6-ab00-5879352814c2"
+  },
+  {
+    "name": "Wordpress",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fwordpress.png?alt=media&token=43a28d6c-3c3c-49bb-bdf6-d05e4204a687"
+  },
+  {
+    "name": "Prestashop",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fprestashop.png?alt=media&token=95671f76-4ec7-48ae-ba50-97e86035fe65"
+  },
+  {
+    "name": "Shopify",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fshopify.png?alt=media&token=2a299171-428e-4fca-9876-7058fb8d2117"
+  },
+  {
+    "name": "Firebase",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Ffirebase.png?alt=media&token=586bab93-b9aa-454b-ab7c-485869afb15d"
+  },
+  {
+    "name": "Docker",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fdocker.png?alt=media&token=191f051c-dd1b-4f32-9e9e-b241fc150156"
+  },
+  {
+    "name": "GCP",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fgcp.png?alt=media&token=c73a0bb0-437e-48ca-a6be-94ab6238b42a"
+  },
+  {
+    "name": "AWS",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Faws.png?alt=media&token=525f14ac-6cea-4338-aeaa-9a7376e3ac8b"
+  },
+  {
+    "name": "Github",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fgithub.png?alt=media&token=bb2a3714-f6f2-4daa-9441-9bde8e9f6597"
+  },
+  {
+    "name": "Postman",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fpostman.png?alt=media&token=7f340d90-caf0-4cf6-915c-bf8c43d72408"
+  },
+  {
+    "name": "Suite Office",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Foffice.png?alt=media&token=521aff4c-9920-41a4-900b-1ceb1f3a6c1f"
   }
 ]
