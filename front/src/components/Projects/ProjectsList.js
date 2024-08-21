@@ -1,22 +1,8 @@
-import { useEffect, useState } from 'react';
 import projects from '../../data/projects.json';
 import Image from 'next/image';
 
 export default function ProjectsList({ limit }) {
-    const [cachedProjects, setCachedProjects] = useState([]);
-
-    useEffect(() => {
-        const cachedData = localStorage.getItem('projects');
-        if (cachedData) {
-            setCachedProjects(JSON.parse(cachedData));
-        } else {
-            const fetchedProjects = projects;
-            localStorage.setItem('projects', JSON.stringify(fetchedProjects));
-            setCachedProjects(fetchedProjects);
-        }
-    }, []);
-
-    const displayedProjects = limit ? cachedProjects.slice(0, limit) : cachedProjects;
+    const displayedProjects = limit ? projects.slice(0, limit) : projects;
 
     return (
         <div className="container mx-auto mt-1 p-4">
@@ -32,7 +18,7 @@ export default function ProjectsList({ limit }) {
                         <Image src={project.attributes.projectCover} alt="" className="rounded-lg" layout="responsive" width={200} height={200} />
                         <div className="text-center md:text-left pt-5 pb-5">
                             <p className="mb-1 text-sm font-normal">{project.attributes.projectDescription}</p>
-                            <h3 className="mb-3 text-2xl font-bold tracking-tight">{project.attributes.projectTitle}</h3>
+                            <h3 className="mb-3 text-xl font-bold tracking-tight">{project.attributes.projectTitle}</h3>
                             <p className="mb-3 text-xs tracking-tight">{project.attributes.projectDate}</p>
 
                             <hr className="project-hr mb-4 mt-4 w-5/5"/>
@@ -45,7 +31,7 @@ export default function ProjectsList({ limit }) {
                                         ) : null
                                     ))
                                 ) : (
-                                    <p>Aucune technologie spécifiée</p>
+                                    <p className="text-sm tracking-tight">Aucune technologie spécifiée</p>
                                 )}
                             </div>
                         </div>

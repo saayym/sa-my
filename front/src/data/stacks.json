@@ -20,8 +20,24 @@
     "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fnextjs.png?alt=media&token=cb4308d3-42da-44da-8dc4-8af9e61cd6a6"
   },
   {
+    "name": "VueJS",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fvuejs.png?alt=media&token=5bf447e6-f087-478b-b5be-3b0968e7407d"
+  },
+  {
     "name": "NodeJS",
     "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fnodejs.png?alt=media&token=d23507c3-9fa0-42ad-a931-dcafc4929e06"
+  },
+  {
+    "name": "Angular",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fangular.png?alt=media&token=a2bd6b66-c4af-462b-bc6b-849a2fa03841"
+  },
+  {
+    "name": ".NET",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fdotnet.png?alt=media&token=c1d19c7a-0e76-4c12-a764-49acdda33372"
+  },
+  {
+    "name": "Android Studio",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fandroid-studio.png?alt=media&token=db9c8b31-3cc5-4233-b3a2-3fde2bf137b3"
   },
   {
     "name": "Strapi",
@@ -32,20 +48,12 @@
     "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Ffigma.png?alt=media&token=22623c79-5602-4122-bf34-00ca3cc1d0fb"
   },
   {
-    "name": "Canva",
-    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcanva.png?alt=media&token=75ecaa8c-5643-413f-8dd0-aa02bfce0ef4"
-  },
-  {
     "name": "User Experience",
     "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fux.png?alt=media&token=77550c43-21dc-4a0c-9a11-6b9d64409543"
   },
   {
     "name": "PHP",
     "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fphp.png?alt=media&token=d5385dba-fdb3-40aa-88a2-e7150aecd52b"
-  },
-  {
-    "name": "MySQL",
-    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fmysql.png?alt=media&token=4ae85b26-76e3-4cad-b961-34ad7073614a"
   },
   {
     "name": "TailwindCSS",
@@ -72,8 +80,20 @@
     "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fshopify.png?alt=media&token=2a299171-428e-4fca-9876-7058fb8d2117"
   },
   {
+    "name": "MySQL",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fmysql.png?alt=media&token=4ae85b26-76e3-4cad-b961-34ad7073614a"
+  },
+  {
+    "name": "MongoDB",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fmongodb.png?alt=media&token=aa23adbe-5cd3-4304-aa44-314b5200224b"
+  },
+  {
     "name": "Firebase",
     "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Ffirebase.png?alt=media&token=586bab93-b9aa-454b-ab7c-485869afb15d"
+  },
+  {
+    "name": "railway.app",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Frailway-app.png?alt=media&token=1ea7ba8f-4387-47cd-9def-d7cffa02fb37"
   },
   {
     "name": "Docker",
@@ -98,5 +118,13 @@
   {
     "name": "Suite Office",
     "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Foffice.png?alt=media&token=521aff4c-9920-41a4-900b-1ceb1f3a6c1f"
+  },
+  {
+    "name": "Canva",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcanva.png?alt=media&token=75ecaa8c-5643-413f-8dd0-aa02bfce0ef4"
+  },
+  {
+    "name": "Adobe Photoshop",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fphotoshop.png?alt=media&token=fc3f6367-5a12-4a3f-8fdd-f6b3ecb11f07"
   }
 ]

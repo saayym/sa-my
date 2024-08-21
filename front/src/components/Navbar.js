@@ -1,12 +1,11 @@
 "use client";
 
 import Image from 'next/image';
-import logo from '../../public/s-logo.png';
+import logo from '../../public/sa-my.png';
 import React, { useState, useEffect, useRef } from "react";
 import { FaGithub, FaLinkedin, FaTimes } from "react-icons/fa";
 import { RxHamburgerMenu } from "react-icons/rx";
 import { Link } from 'react-router-dom';
-
 
 export default function Navbar() {
     const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -45,6 +44,14 @@ export default function Navbar() {
         }
     };
 
+    const handleLinkClick = () => {
+        setIsClosing(true);
+        setTimeout(() => {
+            setIsMobileMenuOpen(false);
+            setIsClosing(false);
+        }, 300);
+    };
+
     useEffect(() => {
         if (isMobileMenuOpen) {
             document.addEventListener("mousedown", handleClickOutside);
@@ -65,12 +72,12 @@ export default function Navbar() {
             <nav className="bg-blue-50 w-full">
                 <div className="container flex items-center justify-between p-6 mx-auto text-gray-600 capitalize">
                     <div className="flex items-center">
-                        <Link to="/"><Image src={logo} alt="Logo Samy Hammouche" className="h-10 w-10" /></Link>
+                        <Link to="/" onClick={handleLinkClick}><Image src={logo} alt="Logo Samy Hammouche" className="h-10 w-10" /></Link>
                     </div>
                     <div className="hidden md:flex items-center justify-end flex-grow">
-                        <Link to="/" className="block text-gray-800 mx-1.5 sm:mx-6">Accueil</Link>
-                        <Link to="/projets" className="block text-gray-800 mx-1.5 sm:mx-6">Projets</Link>
-                        <Link to="/contact" className="block text-gray-800 mx-1.5 sm:mx-6">Contact</Link>
+                        <Link to="/" className="block text-gray-800 mx-1.5 sm:mx-6" onClick={handleLinkClick}>Accueil</Link>
+                        <Link to="/projets" className="block text-gray-800 mx-1.5 sm:mx-6" onClick={handleLinkClick}>Projets</Link>
+                        <Link to="/contact" className="block text-gray-800 mx-1.5 sm:mx-6" onClick={handleLinkClick}>Contact</Link>
                         <a href="https://github.com/saayym" target="_blank" className="text-gray-800 mx-1.5 sm:mx-6">
                             <FaGithub className="w-5 h-5 fill-current" />
                         </a>
@@ -87,15 +94,15 @@ export default function Navbar() {
                 {isMobileMenuOpen && (
                     <div ref={menuRef} className={`fixed top-0 left-0 w-full bg-blue-50 p-6 z-50 ${isClosing ? 'animate-slide-up' : 'animate-slide-down'}`}>
                         <div className="flex justify-between items-center mb-4">
-                            <Link to="/"><Image className="h-10 w-10 mr-4" src={logo} alt="Logo Samy Hammouche"/></Link>
+                            <Link to="/" onClick={handleLinkClick}><Image className="h-10 w-10 mr-4" src={logo} alt="Logo Samy Hammouche"/></Link>
                             <button onClick={toggleMobileMenu} className="text-gray-800 focus:outline-none">
                                 <FaTimes className="w-6 h-6" />
                             </button>
                         </div>
                         <div className="flex flex-col items-center">
-                            <Link to="/" className="block text-gray-800 mx-1.5 sm:mx-6">Accueil</Link>
-                            <Link to="/projets" className="block text-gray-800 mx-1.5 sm:mx-6">Projets</Link>
-                            <Link to="/contact" className="block text-gray-800 mx-1.5 sm:mx-6">Contact</Link>
+                            <Link to="/" className="block text-gray-800 mx-1.5 sm:mx-6" onClick={handleLinkClick}>Accueil</Link>
+                            <Link to="/projets" className="block text-gray-800 mx-1.5 sm:mx-6" onClick={handleLinkClick}>Projets</Link>
+                            <Link to="/contact" className="block text-gray-800 mx-1.5 sm:mx-6" onClick={handleLinkClick}>Contact</Link>
                         </div>
                         <div className="flex justify-center mt-4">
                             <a href="https://github.com/saayym" target="_blank" className="text-gray-800 mx-2">

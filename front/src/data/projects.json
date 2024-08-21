@@ -21,11 +21,40 @@
       "projectCover" : "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/projects%2Ftodeo_cover.png?alt=media&token=2d456228-5398-47a3-86d9-4e8f4f6430cf",
       "projectDescription": "Développeur Fullstack - Application de gestion personnelle",
       "projectTitle": "Todeo",
-      "projectDate": "depuis juillet 2024",
+      "projectDate": "depuis août 2024"
+    }
+  },
+  {
+    "attributes": {
+      "projectCover" : "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/projects%2Fcopay_cover.png?alt=media&token=e5b7d84c-f93c-43b0-94bb-3f64662ab4d4",
+      "projectDescription": "Développeur Fullstack - Développement d'une application de partage de dépenses",
+      "projectTitle": "Scolaire - Copay",
+      "projectDate": "avril 2024",
       "projectTechnologies": {
         "data": [
-          { "stackUsed": { "name": "HTML", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fhtml.png?alt=media&token=aaad887f-ebef-42ec-8c2f-251e77e24a71" } },
-          { "stackUsed": { "name": "CSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8" } }
+          { "stackUsed": { "name": "ReactJS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Freact.png?alt=media&token=3a390636-7b65-4875-ae8d-1630478311b1" } },
+          { "stackUsed": { "name": "TailwindCSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Ftailwind.png?alt=media&token=328f2797-ab6e-4d14-9995-86f4b7fae274" } },
+          { "stackUsed": { "name": "NodeJS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fnodejs.png?alt=media&token=d23507c3-9fa0-42ad-a931-dcafc4929e06" } },
+          { "stackUsed": { "name": "MongoDB", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fmongodb.png?alt=media&token=aa23adbe-5cd3-4304-aa44-314b5200224b" } },
+          { "stackUsed": { "name": "Postman", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fpostman.png?alt=media&token=7f340d90-caf0-4cf6-915c-bf8c43d72408" } },
+          { "stackUsed": { "name": "Github", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fgithub.png?alt=media&token=0ddefe3d-809c-4fba-bf91-f5a1b990d564" } },
+          { "stackUsed": { "name": "Railway", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Frailway-app.png?alt=media&token=1ea7ba8f-4387-47cd-9def-d7cffa02fb37" } },
+          { "stackUsed": { "name": "UX/UI", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fux.png?alt=media&token=77550c43-21dc-4a0c-9a11-6b9d64409543" } }
+        ]
+      }
+    }
+  },
+  {
+    "attributes": {
+      "projectCover" : "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/projects%2Fkitchinfo_cover.png?alt=media&token=6c214ac8-8e8a-4a54-b11c-f725e159154a",
+      "projectDescription": "Développeur Frontend - Développement d'une application android de recette de cuisine",
+      "projectTitle": "Scolaire - KitchInfo",
+      "projectDate": "avril 2024",
+      "projectTechnologies": {
+        "data": [
+          { "stackUsed": { "name": "Android Studio", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fandroid-studio.png?alt=media&token=db9c8b31-3cc5-4233-b3a2-3fde2bf137b3" } },
+          { "stackUsed": { "name": "Github", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fgithub.png?alt=media&token=0ddefe3d-809c-4fba-bf91-f5a1b990d564" } },
+          { "stackUsed": { "name": "UX/UI", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fux.png?alt=media&token=77550c43-21dc-4a0c-9a11-6b9d64409543" } }
         ]
       }
     }
@@ -33,13 +62,15 @@
   {
     "attributes": {
       "projectCover" : "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/projects%2Fsuplib_cover.png?alt=media&token=0954d701-e1b4-4b0a-9f8b-92efacddf728",
-      "projectDescription": "Développeur Backend - Développement d'une API REST",
+      "projectDescription": "Développeur Frontend - Développement d'une bibliothèque de livre en ligne",
       "projectTitle": "Scolaire - Suplib",
       "projectDate": "avril 2024",
       "projectTechnologies": {
         "data": [
-          { "stackUsed": { "name": "HTML", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fhtml.png?alt=media&token=aaad887f-ebef-42ec-8c2f-251e77e24a71" } },
-          { "stackUsed": { "name": "CSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8" } }
+          { "stackUsed": { "name": "ReactJS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Freact.png?alt=media&token=3a390636-7b65-4875-ae8d-1630478311b1" } },
+          { "stackUsed": { "name": "TailwindCSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Ftailwind.png?alt=media&token=328f2797-ab6e-4d14-9995-86f4b7fae274" } },
+          { "stackUsed": { "name": "Github", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fgithub.png?alt=media&token=0ddefe3d-809c-4fba-bf91-f5a1b990d564" } },
+          { "stackUsed": { "name": "UX/UI", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fux.png?alt=media&token=77550c43-21dc-4a0c-9a11-6b9d64409543" } }
         ]
       }
     }
@@ -52,8 +83,10 @@
       "projectDate": "depuis novembre 2023",
       "projectTechnologies": {
         "data": [
-          { "stackUsed": { "name": "HTML", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fhtml.png?alt=media&token=aaad887f-ebef-42ec-8c2f-251e77e24a71" } },
-          { "stackUsed": { "name": "CSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8" } }
+          { "stackUsed": { "name": "NextJS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fnextjs.png?alt=media&token=fa7d23c5-41fb-4bbd-a373-bd98eb3d76d9" } },
+          { "stackUsed": { "name": "TailwindCSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Ftailwind.png?alt=media&token=328f2797-ab6e-4d14-9995-86f4b7fae274" } },
+          { "stackUsed": { "name": "Figma", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Ffigma.png?alt=media&token=22623c79-5602-4122-bf34-00ca3cc1d0fb" } },
+          { "stackUsed": { "name": "Github", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fgithub.png?alt=media&token=0ddefe3d-809c-4fba-bf91-f5a1b990d564" } }
         ]
       }
     }
@@ -66,8 +99,10 @@
       "projectDate": "novembre 2023",
       "projectTechnologies": {
         "data": [
-          { "stackUsed": { "name": "HTML", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fhtml.png?alt=media&token=aaad887f-ebef-42ec-8c2f-251e77e24a71" } },
-          { "stackUsed": { "name": "CSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8" } }
+          { "stackUsed": { "name": "NextJS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fnextjs.png?alt=media&token=fa7d23c5-41fb-4bbd-a373-bd98eb3d76d9" } },
+          { "stackUsed": { "name": "TailwindCSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Ftailwind.png?alt=media&token=328f2797-ab6e-4d14-9995-86f4b7fae274" } },
+          { "stackUsed": { "name": "Github", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fgithub.png?alt=media&token=0ddefe3d-809c-4fba-bf91-f5a1b990d564" } },
+            { "stackUsed": { "name": "Firebase", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Ffirebase.png?alt=media&token=586bab93-b9aa-454b-ab7c-485869afb15d" } }
         ]
       }
     }
@@ -80,8 +115,10 @@
       "projectDate": "novembre 2023",
       "projectTechnologies": {
         "data": [
-          { "stackUsed": { "name": "HTML", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fhtml.png?alt=media&token=aaad887f-ebef-42ec-8c2f-251e77e24a71" } },
-          { "stackUsed": { "name": "CSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8" } }
+          { "stackUsed": { "name": "NodeJS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fnodejs.png?alt=media&token=d23507c3-9fa0-42ad-a931-dcafc4929e06" } },
+          { "stackUsed":  { "name":  "MongoDB", "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fmongodb.png?alt=media&token=aa23adbe-5cd3-4304-aa44-314b5200224b" } },
+          { "stackUsed": { "name": "Postman", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fpostman.png?alt=media&token=7f340d90-caf0-4cf6-915c-bf8c43d72408" } },
+          { "stackUsed": { "name": "Github", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fgithub.png?alt=media&token=0ddefe3d-809c-4fba-bf91-f5a1b990d564" } }
         ]
       }
     }
@@ -94,8 +131,15 @@
       "projectDate": "depuis juillet 2023",
       "projectTechnologies": {
         "data": [
+          { "stackUsed": { "name": "Prestashop", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fprestashop.png?alt=media&token=95671f76-4ec7-48ae-ba50-97e86035fe65" } },
+          { "stackUsed": { "name": "Wordpress", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fwordpress.png?alt=media&token=43a28d6c-3c3c-49bb-bdf6-d05e4204a687" } },
+          { "stackUsed": { "name": "PHP", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fphp.png?alt=media&token=d5385dba-fdb3-40aa-88a2-e7150aecd52b" } },
           { "stackUsed": { "name": "HTML", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fhtml.png?alt=media&token=aaad887f-ebef-42ec-8c2f-251e77e24a71" } },
-          { "stackUsed": { "name": "CSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8" } }
+          { "stackUsed": { "name": "CSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8" } },
+          { "stackUsed": { "name": "Javascript", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fjavascript.png?alt=media&token=45032761-4a30-4c9a-9723-2726cf581c22" } },
+          { "stackUsed": { "name": "Figma", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Ffigma.png?alt=media&token=22623c79-5602-4122-bf34-00ca3cc1d0fb" } },
+          { "stackUsed": { "name": "Adobe Photoshop", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fphotoshop.png?alt=media&token=fc3f6367-5a12-4a3f-8fdd-f6b3ecb11f07" } },
+          { "stackUsed": { "name": "Canva", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcanva.png?alt=media&token=75ecaa8c-5643-413f-8dd0-aa02bfce0ef4" } }
         ]
       }
     }
@@ -108,8 +152,10 @@
       "projectDate": "de mai 2023 à juin 2023",
       "projectTechnologies": {
         "data": [
-          { "stackUsed": { "name": "HTML", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fhtml.png?alt=media&token=aaad887f-ebef-42ec-8c2f-251e77e24a71" } },
-          { "stackUsed": { "name": "CSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8" } }
+          { "stackUsed": { "name": "ReactJS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Freact.png?alt=media&token=3a390636-7b65-4875-ae8d-1630478311b1" } },
+          { "stackUsed": { "name": "Bootstrap", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fbootstrap.png?alt=media&token=2131ebbe-59e7-4fa2-a734-54f5bb3b96d2" } },
+          { "stackUsed": { "name": "Github", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fgithub.png?alt=media&token=0ddefe3d-809c-4fba-bf91-f5a1b990d564" } },
+          { "stackUsed": { "name": "Firebase", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Ffirebase.png?alt=media&token=586bab93-b9aa-454b-ab7c-485869afb15d" } }
         ]
       }
     }
@@ -122,8 +168,9 @@
       "projectDate": "février 2023",
       "projectTechnologies": {
         "data": [
-          { "stackUsed": { "name": "HTML", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fhtml.png?alt=media&token=aaad887f-ebef-42ec-8c2f-251e77e24a71" } },
-          { "stackUsed": { "name": "CSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8" } }
+          { "stackUsed": { "name": "ReactJS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Freact.png?alt=media&token=3a390636-7b65-4875-ae8d-1630478311b1" } },
+          { "stackUsed": { "name": "Bootstrap", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fbootstrap.png?alt=media&token=2131ebbe-59e7-4fa2-a734-54f5bb3b96d2" } },
+          { "stackUsed": { "name": "Github", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fgithub.png?alt=media&token=0ddefe3d-809c-4fba-bf91-f5a1b990d564" } }
         ]
       }
     }
@@ -133,11 +180,13 @@
       "projectCover" : "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/projects%2Fsupmovie_cover.png?alt=media&token=e1bdaf91-2e92-4f35-ba19-4041ac35abb7",
       "projectDescription": "Développeur Fullstack - Création d'un site pour une boutique de location de films",
       "projectTitle": "Scolaire - SupMovie",
-      "projectDate": "de décembre 2022 à janvier 2023",
+      "projectDate": "décembre 2022",
       "projectTechnologies": {
         "data": [
-          { "stackUsed": { "name": "HTML", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fhtml.png?alt=media&token=aaad887f-ebef-42ec-8c2f-251e77e24a71" } },
-          { "stackUsed": { "name": "CSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8" } }
+          { "stackUsed": { "name": "PHP", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fphp.png?alt=media&token=d5385dba-fdb3-40aa-88a2-e7150aecd52b" } },
+          { "stackUsed": { "name": "Bootstrap", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fbootstrap.png?alt=media&token=2131ebbe-59e7-4fa2-a734-54f5bb3b96d2" } },
+          { "stackUsed": { "name": "Github", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fgithub.png?alt=media&token=0ddefe3d-809c-4fba-bf91-f5a1b990d564" } },
+          { "stackUsed": { "name": "MySQL", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fmysql.png?alt=media&token=4ae85b26-76e3-4cad-b961-34ad7073614a" } }
         ]
       }
     }
@@ -150,8 +199,9 @@
       "projectDate": "octobre 2022",
       "projectTechnologies": {
         "data": [
-          { "stackUsed": { "name": "HTML", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fhtml.png?alt=media&token=aaad887f-ebef-42ec-8c2f-251e77e24a71" } },
-          { "stackUsed": { "name": "CSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8" } }
+          { "stackUsed": { "name": "Figma", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Ffigma.png?alt=media&token=22623c79-5602-4122-bf34-00ca3cc1d0fb" } },
+          { "stackUsed": { "name": "Canva", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcanva.png?alt=media&token=75ecaa8c-5643-413f-8dd0-aa02bfce0ef4" } },
+          { "stackUsed": { "name": "Adobe Photoshop", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fphotoshop.png?alt=media&token=fc3f6367-5a12-4a3f-8fdd-f6b3ecb11f07" } }
         ]
       }
     }
@@ -164,8 +214,12 @@
       "projectDate": "de juillet 2022 à octobre 2022",
       "projectTechnologies": {
         "data": [
+          { "stackUsed": { "name": "PHP", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fphp.png?alt=media&token=d5385dba-fdb3-40aa-88a2-e7150aecd52b" } },
           { "stackUsed": { "name": "HTML", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fhtml.png?alt=media&token=aaad887f-ebef-42ec-8c2f-251e77e24a71" } },
-          { "stackUsed": { "name": "CSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8" } }
+          { "stackUsed": { "name": "CSS", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fcss.png?alt=media&token=0e8a5ad4-6676-4875-83a4-b420966858c8" } },
+          { "stackUsed": { "name": "Javascript", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fjavascript.png?alt=media&token=45032761-4a30-4c9a-9723-2726cf581c22" } },
+          { "stackUsed": { "name": "Windows", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Fwindows.png?alt=media&token=e4d7322e-0fd3-47d9-a483-ce0a1b58e53a" } },
+          { "stackUsed": { "name": "Linux", "url": "https://firebasestorage.googleapis.com/v0/b/portfolio-samyh.appspot.com/o/stacks%2Flinux.png?alt=media&token=b3378780-b599-4475-ba63-b04c81181c10" } }
         ]
       }
     }

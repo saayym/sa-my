@@ -1,22 +1,23 @@
 "use client";
 
+import { useEffect, useState } from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Navbar from '../src/components/Navbar';
 import Footer from '../src/components/Footer';
 import Landing from './views/Landing';
 import Projects from './views/Projects';
 import Contact from './views/Contact';
-import { useEffect } from 'react';
 
 export default function Home() {
+    const [isClient, setIsClient] = useState(false);
+
     useEffect(() => {
-        if (typeof window !== 'undefined') {
-            const cachedData = localStorage.getItem('projects');
-            if (!cachedData) {
-                localStorage.setItem('projects', JSON.stringify([]));
-            }
-        }
+        setIsClient(true);
     }, []);
+
+    if (!isClient) {
+        return null;
+    }
 
     return (
         <BrowserRouter>
@@ -36,8 +37,7 @@ export default function Home() {
                             <svg x="50%" y="50%" className="overflow-visible fill-blue-50">
                                 <path d="M-300 0h201v201h-201Z M300 200h201v201h-201Z" strokeWidth="0"></path>
                             </svg>
-                            <rect width="100%" height="100%" strokeWidth="0" fill="url(#e9033f3e-f665-41a6-84ef-756f6778e6fe)">
-                            </rect>
+                            <rect width="100%" height="100%" strokeWidth="0" fill="url(#e9033f3e-f665-41a6-84ef-756f6778e6fe)"></rect>
                         </svg>
                     </div>
                 </div>

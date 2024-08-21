@@ -138,10 +138,10 @@ h3, h4, h5, h6, p, a, button {
   }
 }
 
-.card {
+.up-animation {
   transition: transform 0.3s ease-in-out;
 }
 
-.card:hover {
+.up-animation:hover {
   transform: translateY(-10px);
 }
