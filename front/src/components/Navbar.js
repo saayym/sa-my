@@ -78,15 +78,15 @@ export default function Navbar() {
                         <Link to="/" className="block text-gray-800 mx-1.5 sm:mx-6" onClick={handleLinkClick}>Accueil</Link>
                         <Link to="/projets" className="block text-gray-800 mx-1.5 sm:mx-6" onClick={handleLinkClick}>Projets</Link>
                         <Link to="/contact" className="block text-gray-800 mx-1.5 sm:mx-6" onClick={handleLinkClick}>Contact</Link>
-                        <a href="https://github.com/saayym" target="_blank" className="text-gray-800 mx-1.5 sm:mx-6">
+                        <a href="https://github.com/saayym" target="_blank" className="text-gray-800 mx-1.5 sm:mx-6" aria-label="Lien vers Github">
                             <FaGithub className="w-5 h-5 fill-current" />
                         </a>
-                        <a href="https://linkedin.com/in/samy-hammouche/" target="_blank" className="text-gray-800 mx-1.5 sm:mx-6">
+                        <a href="https://linkedin.com/in/samy-hammouche/" target="_blank" className="text-gray-800 mx-1.5 sm:mx-6" aria-label="Lien vers LinkedIn">
                             <FaLinkedin className="w-5 h-5 fill-current" />
                         </a>
                     </div>
                     <div className="md:hidden flex items-center justify-end w-full">
-                        <button onClick={toggleMobileMenu} className="text-gray-800 focus:outline-none">
+                        <button onClick={toggleMobileMenu} className="text-gray-800 focus:outline-none" aria-label="burgerMenu">
                             <RxHamburgerMenu className="w-6 h-6" />
                         </button>
                     </div>
@@ -95,7 +95,7 @@ export default function Navbar() {
                     <div ref={menuRef} className={`fixed top-0 left-0 w-full bg-blue-50 p-6 z-50 ${isClosing ? 'animate-slide-up' : 'animate-slide-down'}`}>
                         <div className="flex justify-between items-center mb-4">
                             <Link to="/" onClick={handleLinkClick}><Image className="h-10 w-10 mr-4" src={logo} alt="Logo Samy Hammouche"/></Link>
-                            <button onClick={toggleMobileMenu} className="text-gray-800 focus:outline-none">
+                            <button onClick={toggleMobileMenu} className="text-gray-800 focus:outline-none" aria-label="burgerMenu">
                                 <FaTimes className="w-6 h-6" />
                             </button>
                         </div>
@@ -105,10 +105,10 @@ export default function Navbar() {
                             <Link to="/contact" className="block text-gray-800 mx-1.5 sm:mx-6" onClick={handleLinkClick}>Contact</Link>
                         </div>
                         <div className="flex justify-center mt-4">
-                            <a href="https://github.com/saayym" target="_blank" className="text-gray-800 mx-2">
+                            <a href="https://github.com/saayym" target="_blank" className="text-gray-800 mx-2" aria-label="Lien vers Github">
                                 <FaGithub className="w-5 h-5 fill-current" />
                             </a>
-                            <a href="https://linkedin.com/in/samy-hammouche/" target="_blank" className="text-gray-800 mx-2">
+                            <a href="https://linkedin.com/in/samy-hammouche/" target="_blank" className="text-gray-800 mx-2" aria-label="Lien vers LinkedIn">
                                 <FaLinkedin className="w-5 h-5 fill-current" />
                             </a>
                         </div>

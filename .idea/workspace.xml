@@ -6,25 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="dd1b5dc2-403e-4ffe-9494-04c215edf012" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/app/assets/css/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/front/app/assets/css/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/app/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/app/favicon/android-chrome-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/app/favicon/android-chrome-512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/app/favicon/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/app/favicon/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/app/favicon/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/app/favicon/site.webmanifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/app/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/app/views/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/app/views/Contact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/public/s-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/public/s-no_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/.firebase/hosting.b3V0.cache" beforeDir="false" afterPath="$PROJECT_DIR$/front/.firebase/hosting.b3V0.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/components/Landing/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/Landing/Hero.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/components/Landing/StackSlider.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/Landing/StackSlider.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/src/components/Projects/ProjectsList.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/Projects/ProjectsList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/src/data/projects.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/data/projects.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/src/data/stacks.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/data/stacks.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +54,7 @@
     "nodejs_package_manager_path": "npm",
     "npm.export.executor": "Run",
     "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "C:\\Users\\samyh\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "ts.external.directory.path": "/Users/samy/Applications/WebStorm 2023.2.6.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -118,6 +104,7 @@
       <workItem from="1724085625919" duration="234000" />
       <workItem from="1724085867448" duration="9809000" />
       <workItem from="1724176550596" duration="8368000" />
+      <workItem from="1724247413001" duration="2943000" />
     </task>
     <servers />
   </component>

@@ -1,3 +1,5 @@
+"use client";
+
 import React, { useEffect, useState } from 'react';
 import stacks from '../../data/stacks.json';
 
@@ -13,7 +15,7 @@ export default function StackSlider() {
             <div className="slider">
                 {stackItems.map((stack, index) => (
                     <div key={index} className="slide">
-                        <img src={stack.image} alt={stack.name} className="stack-image" />
+                        <img src={stack.image} alt={stack.name} className="stack-image"/>
                         <p className="stack-title">{stack.name}</p>
                     </div>
                 ))}

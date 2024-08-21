@@ -31,13 +31,13 @@ export default function Footer() {
                                 Contactez moi par email ou retrouvez moi sur les réseaux sociaux ci-dessous :
                             </p>
                             <div className="mt-6 lg:mb-0 mb-6">
-                                <button onClick={handleMailClick} className="up-animation bg-white text-blue-600 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2" type="button">
+                                <button aria-label="mailClick" onClick={handleMailClick} className="up-animation bg-white text-blue-600 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2" type="button">
                                     <IoIosMail className="w-6 h-6 mx-auto"/>
                                 </button>
-                                <button onClick={handleLinkedinClick} className="up-animation bg-white text-blue-600 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2" type="button">
+                                <button aria-label="linkedinClick" onClick={handleLinkedinClick} className="up-animation bg-white text-blue-600 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2" type="button">
                                     <FaLinkedin className="w-6 h-6 mx-auto"/>
                                 </button>
-                                <button onClick={handleGithubClick} className="up-animation bg-white text-blue-600 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none" type="button">
+                                <button aria-label="githubClick" onClick={handleGithubClick} className="up-animation bg-white text-blue-600 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none" type="button">
                                     <FaGithub className="w-6 h-6 mx-auto"/>
                                 </button>
                             </div>
@@ -46,7 +46,7 @@ export default function Footer() {
                     <hr className="my-6 border-blueGray-300"/>
                     <div className="flex flex-wrap items-center md:justify-between justify-center">
                         <div className="w-full md:w-6/12 px-4 mx-auto text-center">
-                            <div className="text-sm text-blueGray-500 font-semibold py-1">
+                            <div className="text-xs py-1">
                                 Tous droits réservés © sa-my {new Date().getFullYear()}. - Développé avec ❤️ en NextJS.
                             </div>
                         </div>
